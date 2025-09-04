@@ -14,7 +14,7 @@ namespace ConversorDeTemperatura
         {
             tempF = vsbTemp.Value;
             lblTempF.Text = tempF.ToString();
-            tempC = Convert.ToInt32((tempF - 32) * 5/ 9);
+            tempC = Convert.ToInt32((tempF - 32) * 5 / 9);
             lblTempC.Text = tempC.ToString();
         }
     }
