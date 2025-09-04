@@ -1,0 +1,16 @@
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net8.0-windows\ConversorDeTemperatura.exe
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net8.0-windows\ConversorDeTemperatura.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net8.0-windows\ConversorDeTemperatura.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net8.0-windows\ConversorDeTemperatura.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net8.0-windows\ConversorDeTemperatura.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.Form1.resources
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\refint\ConversorDeTemperatura.dll
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ConversorDeTemperatura.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\Conversor de Temperatura\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net8.0-windows\ref\ConversorDeTemperatura.dll
